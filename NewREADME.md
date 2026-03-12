@@ -9,13 +9,13 @@
     </kbd>
     <kbd>
         <a href="https://bsky.app/profile/andreiixe.bsky.social">
-            <img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" alt="Bluesky" height="30"/>
+            <img src="https://img.shields.io/badge/bluesky-%23E4405F.svg?logo=bluesky&logoColor=white" alt="Bluesky" height="30"/>
         <a/>
     </kbd>
     <kbd>
         <a href="https://open.spotify.com/user/afpreqbwe7wv0ylx6n0zejom6">
             <img
-                src="https://img.shields.io/badge/Profile-1db954?logo=spotify&logoColor=white&style=for-the-badge"
+                src="https://img.shields.io/badge/spotify-%23E4405F.svg?logo=spotify&logoColor=white"
                 alt="My Spotify Profile"
                 height="30"/>
         </a>
